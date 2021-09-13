@@ -1,0 +1,11 @@
+links a las 3 guías para montar las 3 arquitecturas alternativas. 
+
+1.- https://aws-quickstart.github.io/quickstart-tableau-sagemaker
+Al no utilizar sagemaker al final no lo llegamos a implantar
+
+2.- https://aws.amazon.com/es/blogs/big-data/building-aws-data-lake-visualizations-with-amazon-athena-and-tableau/
+Sí lo montamos pero como finalmente optamos por D3, nos quedamos en fase de pruebas en carga de tabla de s3 a athena y visualización a tableau
+
+3.-https://towardsdatascience.com/integrating-aws-sagemaker-models-with-quicksight-acfe9e5e9cf1
+Aunque ofrece oportunidad de crear dashboards con fácil acceso a todos los datos y probar modelos a través del uso de sagemaker, no nos permite crear mapas de España fácilmente. 
+
